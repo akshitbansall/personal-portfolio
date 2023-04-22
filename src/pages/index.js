@@ -66,7 +66,7 @@ const Home = () => {
 
                 <p className="text-sm sm:text-base font-semimedium mt-1 text-light text-center sm:text-left">
                   Bringing ideas to life through the process of Designing,
-                  Creation and Development is not just a hobby, it's my passion.
+                  Creation and Development is not just a hobby, it&apos;s my passion.
                 </p>
               </div>
             </motion.div>
@@ -111,7 +111,7 @@ const Home = () => {
                 </p>
 
                 <div className="text-xs sm:text-xl sm:font-semimedium mb-2 mt-1 text-light">
-                  <p> Click me up, if you'r interested in working together. </p>
+                  <p> Click me up, if you&apos;r interested in working together. </p>
                 </div>
                 <a href="mailto:akshitmoga1@gmail.com">
                   <button className="font-medium m hover:text-myYellow hover:border-myYellow text-white bg-transparent text-xs py-2 px-4 border-2 rounded-full mt-5 ">
@@ -178,7 +178,7 @@ const Home = () => {
               </a>
               <div className="w-full flex flex-col items-center mt-4">
                 <p className="text-lg font-medium mb-5 sm:mt-1 text-light text-center">
-                  Let's expand our networks
+                  Let&apos;s expand our networks
                 </p>
               </div>
             </motion.div>

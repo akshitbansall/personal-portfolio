@@ -143,7 +143,7 @@ const Resume = () => {
           <h1 className="text-3xl font-medium mb-4 text-light">About Me</h1>
 
           <p className="mb-4 text-xl font-semimedium text-[#f7f2e1]">
-            I'm an old school kid, experience in tech and design profession with
+            I&apos;m an old school kid, experience in tech and design profession with
             a strong understanding of social media. Passionate about creating
             user-centric solutions for complex problems. Applying knowledge to
             the business world and continuously improving skills through ongoing
@@ -221,7 +221,7 @@ const Resume = () => {
             </h3>
             <p className="text-[#f7f2e1] font-light mb-1">2020 - 2024</p>
             <p className="mt-4 mb-4 text-xl font-semimedium text-[#f7f2e1]">
-              Pre-final year student pursuing a Bachelor's degree in Computer
+              Pre-final year student pursuing a Bachelor&apos;s degree in Computer
               Science Engineering with a CGPA of 9.8.
             </p>
           </div>

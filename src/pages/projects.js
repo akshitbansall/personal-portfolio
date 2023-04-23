@@ -56,7 +56,7 @@ const FeaturedProjects = ({ type, title, img, link, github, summary }) => {
             target="_blank"
             className="ml-4 rounded-lg hover:bg-myYellow bg-dark hover:text-dark text-light p-2 px-6 sm:text-lg font-semibold"
           >
-            Vist Project
+            Visit Project
           </Link>
         </div>
       </div>
@@ -104,7 +104,7 @@ const Projects = ({ type, title, img, link, github }) => {
             target="_blank"
             className="text-lg font-semibold underline hover:text-myYellow text-light"
           >
-            Vist
+            Visit
           </Link>
           <Link href={github} target="_blank" className="w-8">
             <GithubIcon className="text-myYellow " />
